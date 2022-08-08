@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: #FAF7FD;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+* {
+    font-family: 'Poppins';
+    color: #BB99DD;
+}
+
+.social{
+    margin: 5px;
+}
+
+.links{
+    font-weight: 600;
+    margin: 2rem auto;
+    display: block;
+    border: 2px solid #BB99DD;
+    border-radius: 3px;
+    width: 250px;
+}
+
+.links:hover{
+    font-weight: 600;
+    margin: 2rem auto;
+    border: 2px solid #8831df;
+    background-color: #e5e3e7;
+    border-radius: 3px;
+    width: 250px;
+}
+
+img{
+    
+    border-radius: 99999px;
+}
+
+#instaUser{
+    margin: 1px auto;
+    display: block;
+    font-weight: 300;
+}
